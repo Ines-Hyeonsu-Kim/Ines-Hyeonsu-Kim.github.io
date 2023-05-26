@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 =====
-I'm a B.S. student in Biomedical Engineering and Artificial Intelligence at Korea University, advised by Prof. Seungryong Kim at KU-CVLAB.
+I'm a B.S. student in Biomedical Engineering and Artificial Intelligence at Korea University, advised by Prof. Seungryong Kim at Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>.
 
 Research Interest
 =====
