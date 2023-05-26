@@ -14,8 +14,8 @@ I'm a B.S. student in Biomedical Engineering and Artificial Intelligence at Kore
 
 Research Interest
 =====
-*Diffusion Models**. <br>
-*Visual Correspondence**. <br>
+*Diffusion Models. <br>
+*Visual Correspondence. <br>
 *NeRF. <br>
 
 
