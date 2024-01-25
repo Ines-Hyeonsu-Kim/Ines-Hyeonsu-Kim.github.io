@@ -45,7 +45,7 @@ Publications
   
 > <i style='font-style: normal;'>**DiffMatch: Diffusion Model for Dense Matching**<br></i>
 >> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, <span style="color:red">**Oral**</span><br></i>
+>> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, **Oral, 1.2% acceptance rate**<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DiffMatch/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
 
 Honors & Awards
