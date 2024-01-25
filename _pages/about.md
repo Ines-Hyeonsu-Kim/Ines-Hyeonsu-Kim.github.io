@@ -40,12 +40,12 @@ Publications
 ## Preprints
 > <i style='font-style: normal;'>**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br></i>
 >> <i style='font-style: normal;'>Junyoung Seo\*, Wooseok Jang\*, Min-Seop Kwak\*, **Hyeonsu Kim**, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2023<br></i>
+>> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
   
 > <i style='font-style: normal;'>**DiffMatch: Diffusion Model for Dense Matching**<br></i>
 >> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2023, **Oral**<br></i>
+>> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, <span style="color:red">**Oral**</span><br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DiffMatch/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
 
 Honors & Awards
