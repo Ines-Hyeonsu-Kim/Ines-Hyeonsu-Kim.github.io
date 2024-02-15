@@ -37,16 +37,21 @@ Experience
 Publications
 =====
 
-## Preprints
 > <i style='font-style: normal;'>**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br></i>
 >> <i style='font-style: normal;'>Junyoung Seo\*, Wooseok Jang\*, Min-Seop Kwak\*, **Hyeonsu Kim**, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
   
-> <i style='font-style: normal;'>**DiffMatch: Diffusion Model for Dense Matching**<br></i>
+> <i style='font-style: normal;'>**Diffusion Model for Dense Matching**<br></i>
 >> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, **Oral, 1.2% acceptance rate**<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DiffMatch/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
+
+### Preprints
+> <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Susung Home\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Jin-Hwa Kim, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
 Honors & Awards
 =====
