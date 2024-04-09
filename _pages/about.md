@@ -49,7 +49,7 @@ Publications
 
 ### Preprints
 > <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Susung Home\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Jin-Hwa Kim, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Susung Home\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
