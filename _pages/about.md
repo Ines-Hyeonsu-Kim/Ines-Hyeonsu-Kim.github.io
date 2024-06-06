@@ -8,50 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-=====
-I'm a B.S. student in Biomedical Engineering and Artificial Intelligence at Korea University, advised by Prof. Seungryong Kim at Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>.
-
-Research Interest
-=====
-* Diffusion Models. <br>
-* Visual Correspondence. <br>
-* NeRF. <br>
-
 
 
 Education
 ======
 
 * Korea University, Seoul, Korea
+  * M.S. in Computer Science and Engineering
+  * Mar. 2024 - Present
+
+* Korea University, Seoul, Korea
   * B.S. in Biomedical Engineering and Artificial Intelligence
-  * Mar. 2020 - Present
+  * Mar. 2020 - Feb. 2024
 
 Experience
 =====
 * Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
   * Undergraduate Researcher
-  * Jan. 2023 - Present
+  * Jan. 2023 - Feb. 2024
   * Advisor: Prof. Seungryong Kim
 
 Publications
 =====
 
-> <i style='font-style: normal;'>**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Wooseok Jang\*, Min-Seop Kwak\*, **Hyeonsu Kim**, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
-  
 > <i style='font-style: normal;'>**Diffusion Model for Dense Matching**<br></i>
 >> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, **Oral, 1.2% acceptance rate**<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DiffMatch/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
 
-### Preprints
+> <i style='font-style: normal;'>**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Wooseok Jang\*, Min-Seop Kwak\*, **Hyeonsu Kim**, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
+
 > <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Susung Home\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
+
 
 Honors & Awards
 =====
