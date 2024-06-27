@@ -64,6 +64,8 @@ Honors & Awards
   * Korea University, Seoul, Korea
 * Best Paper Award (2023)
   * 33th Artificial Intelligence and Signal Processing, IEIE.
+* Semester High Honors (2nd semester, 2023)
+  * Korea University, Seoul, Korea (Jul. 2023)
 * Semester High Honors (2nd semester, 2022)
   * Korea University, Seoul, Korea (Jul. 2022)
 * Soseon Scholarship 
