@@ -46,15 +46,28 @@ Publications
 >> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
+<h3>Preprints</h3>
+=====
+> <i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
+>> <i style='font-style: normal;'> <strong>Inès Hyeonsu Kim</strong><sup>*</sup>, JoungBin Lee\*, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, Seokju Cho, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/Diff-ID">[Project Page]</a> <a href="https://arxiv.org/pdf/2406.16042">[arXiv]</a>
+
+> <i style='font-style: normal;'>**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**<br></i>
+>> <i style='font-style: normal;'> Min-Seop Kwak, Donghoon Ahn, **Inès Hyeonsu Kim**, Jin-wha Kim, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/GSD/">[Project Page]</a> <a href="https://arxiv.org/pdf/2406.16695">[arXiv]</a>
 
 Honors & Awards
 =====
+* Outstanding Graduate Award, Class of 2023
+  * Korea University, Seoul, Korea
+* Best Paper Award (2023)
+  * 33th Artificial Intelligence and Signal Processing, IEIE.
 * Semester High Honors (2nd semester, 2022)
   * Korea University, Seoul, Korea (Jul. 2022)
 * Soseon Scholarship 
   * Soseon Sharing Fund, Korea (Sep. 2022)
-* Semester High Honors (1st semester, 2022)
-  * Korea University, Seoul, Korea (Jan. 2022)
 * Semester High Honors (2nd semester, 2021)
   * Korea University, Seoul, Korea (Jul. 2021)
 * Semester High Honors (1st semester, 2021)
