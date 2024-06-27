@@ -47,7 +47,7 @@ Publications
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
 <h3>Preprints</h3>
-=====
+
 > <i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
 >> <i style='font-style: normal;'> <strong>Inès Hyeonsu Kim</strong><sup>*</sup>, JoungBin Lee\*, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, Seokju Cho, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
