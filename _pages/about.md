@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea
+* Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea
   * M.S/Ph.D in Artificial Intelligence
   * Sep. 2024 - Present
 
