@@ -13,23 +13,28 @@ redirect_from:
 Education
 ======
 
-* Korea University, Seoul, Korea
-  * M.S. in Computer Science and Engineering
-  * Mar. 2024 - Present
+* Korea Advanced Institute of Science and Technology(KAIST), Seoul, Korea
+  * M.S/Ph.D in Artificial Intelligence
+  * Sep. 2024 - Present
 
 * Korea University, Seoul, Korea
-  * B.S. in Biomedical Engineering and Artificial Intelligence
+  * B.S in Biomedical Engineering and Artificial Intelligence
   * Mar. 2020 - Feb. 2024
 
 Experience
 =====
 * Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
-  * Undergraduate Researcher
-  * Jan. 2023 - Feb. 2024
+  * Research Assistant
+  * Jan. 2023 - Aug. 2024
   * Advisor: Prof. Seungryong Kim
 
 Publications
 =====
+
+> <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
+>> <i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
 > <i style='font-style: normal;'>**Diffusion Model for Dense Matching**<br></i>
 >> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
@@ -41,10 +46,6 @@ Publications
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
 
-> <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
 <h3>Preprints</h3>
 
@@ -60,7 +61,7 @@ Publications
 
 Honors & Awards
 =====
-* Outstanding Graduate Award, Class of 2023
+* Outstanding Graduate Award, Class of 2024
   * Korea University, Seoul, Korea
 * Best Paper Award (2023)
   * 33th Artificial Intelligence and Signal Processing, IEIE.
