@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Inès Hyeonsu Kim"
 title_separator          : "-"
 name                     : &name "Inès Hyeonsu Kim"
-description              : &description "undergraduate student @ Korea University CVLAB"
+description              : &description "PhD Student @ KAIST AI"
 url                      : https://ines-hyeonsu-kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ines-Hyeonsu-Kim/Ines-Hyeonsu-Kim.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Inès Hyeonsu Kim"
   avatar           : "profile.png"
-  bio              : "Undergraduate student @ Korea University CVLAB"
+  bio              : "PhD student @ KAIST AI"
   location         : "Seoul, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Z8F3ENwAAAAJ&hl=ko&oi=sra"
+  googlescholar    : "https://scholar.google.co.kr/citations?view_op=list_works&hl=ko&hl=ko&user=tBcqfncAAAAJ"
   email            : "hyeonsu0305@korea.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
