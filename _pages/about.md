@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Introduction
+======
+I am a first-year PhD student at KAIST, advised by Prof. <a href="https://cvlab.kaist.ac.kr/members/faculty">Seungryong Kim</a>. My research focuses on general perception, with a particular interest in point tracking (Track Any Point), its applications, and bridging video with language understanding.
 
-
+Before joining KAIST, I was a PhD student at Korea University and transferred to KAIST with my advisor. Prior to that, I received a B.S. degree from Korea University.
 
 Education
 ======
@@ -16,6 +19,10 @@ Education
 * Korea Advanced Institute of Science and Technology (KAIST), Seoul, Korea
   * MS/PhD Integrated Student in Artificial Intelligence
   * Sep. 2024 - Present
+ 
+* Korea University, Seoul, Korea
+  * M.S. in Computer Science and Engineering
+  * Mar. 2024 - Sep. 2024 (Transferred to KAIST with supervisor)
 
 * Korea University, Seoul, Korea
   * B.S in Biomedical Engineering and Artificial Intelligence
@@ -23,7 +30,7 @@ Education
 
 Experience
 =====
-* Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea
+* Korea University <a href="https://cvlab.kaist.ac.kr">CVLAB</a>, Seoul, Korea
   * Research Assistant
   * Jan. 2023 - Aug. 2024
   * Advisor: Prof. Seungryong Kim
@@ -34,7 +41,7 @@ Publications
 > <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
 >> <i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/ReDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
 > <i style='font-style: normal;'>**Diffusion Model for Dense Matching**<br></i>
 >> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
@@ -48,6 +55,11 @@ Publications
 
 
 <h3>Preprints</h3>
+
+> <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
+>> <i style='font-style: normal;'><strong>Inès Hyeonsu Kim</strong><sup>*</sup>, Seokju Cho\*, Jiahui Huang, Jung Yi, Joon-Yong Lee, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Arxiv Preprint, 2025<br></i>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/Chrono/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
 > <i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
 >> <i style='font-style: normal;'> <strong>Inès Hyeonsu Kim</strong><sup>*</sup>, JoungBin Lee\*, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, Seokju Cho, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
