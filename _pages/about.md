@@ -27,6 +27,7 @@ Education
 * Korea University, Seoul, Korea
   * B.S in Biomedical Engineering and Artificial Intelligence
   * Mar. 2020 - Feb. 2024
+  * Graduated Summa Cum Laude
 
 Experience
 =====
