@@ -31,10 +31,15 @@ Education
 
 Experience
 =====
-* Korea University <a href="https://cvlab.kaist.ac.kr">CVLAB</a>, Seoul, Korea
+* University of Michigan, Ann Arbor, MI
+  * Visiting Scholar
+  * Jun. 2025 - Dec. 2025 (Expected)
+  * Advisor: Prof. <a href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>
+    
+* Korea University, Seoul, Korea
   * Research Assistant
   * Jan. 2023 - Aug. 2024
-  * Advisor: Prof. Seungryong Kim
+  * Advisor: Prof. <a href="https://cvlab.kaist.ac.kr/members/faculty/">Seungryong Kim</a>
 
 Publications
 =====
