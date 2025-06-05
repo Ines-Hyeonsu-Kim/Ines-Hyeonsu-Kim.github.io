@@ -83,7 +83,7 @@ author:
   name             : "Inès Hyeonsu Kim"
   avatar           : "profile.png"
   bio              : "PhD student @ KAIST AI"
-  location         : "Seoul, Korea"
+  location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.kr/citations?view_op=list_works&hl=ko&hl=ko&user=tBcqfncAAAAJ"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : 
 
 
 # Reading Files
