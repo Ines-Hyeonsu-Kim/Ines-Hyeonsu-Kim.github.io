@@ -33,7 +33,7 @@ Experience
 =====
 * University of Michigan, Ann Arbor, MI
   * Visiting Scholar
-  * Jun. 2025 - Dec. 2025 (Expected)
+  * Jun. 2025 - Dec. 2025
   * Advisor: Prof. <a href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a>
     
 * Korea University, Seoul, Korea
@@ -47,7 +47,7 @@ Publications
 > <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
 >> <i style='font-style: normal;'><strong>Inès Hyeonsu Kim</strong><sup>*</sup>, Seokju Cho\*, Jiahui Huang, Jung Yi, Joon-Yong Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025<br></i>
->> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/Chrono/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/Chrono/">[Project Page]</a> <a href="https://arxiv.org/pdf/2501.12218">[arXiv]</a>
 
 > <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
 >> <i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
@@ -79,6 +79,9 @@ Publications
 
 Honors & Awards
 =====
+* CVPR Travel Award (2025)
+  *  IEEE Computer Society and the Computer Vision Foundation
+  *  Exploring Temporally-Aware Features for Point Tracking
 * Outstanding Graduate Award, Class of 2024
   * Korea University, Seoul, Korea
 * Best Paper Award (2023)
