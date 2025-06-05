@@ -43,39 +43,38 @@ Experience
 
 Publications
 =====
+<i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
+<i style='font-style: normal;'><strong>Inès Hyeonsu Kim</strong><sup>*</sup>, Seokju Cho\*, Jiahui Huang, Jung Yi, Joon-Yong Lee, Seungryong Kim<br></i>
+<i style='font-style: normal;'>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025<br></i>
+<i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/Chrono/">[Project Page]</a> <a href="https://arxiv.org/pdf/2501.12218">[arXiv]</a>
 
-> <i style='font-style: normal;'>**Exploring Temporally-Aware Features for Point Tracking**<br></i>
->> <i style='font-style: normal;'><strong>Inès Hyeonsu Kim</strong><sup>*</sup>, Seokju Cho\*, Jiahui Huang, Jung Yi, Joon-Yong Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025<br></i>
->> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/Chrono/">[Project Page]</a> <a href="https://arxiv.org/pdf/2501.12218">[arXiv]</a>
+<i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
+<i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
+<i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
+<i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/ReDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
 
-> <i style='font-style: normal;'>**Retrieval-Augmented Score Distillation for Text-to-3D Generation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Susung Hong\*, Wooseok Jang\*, **Inès Hyeonsu Kim**, Minseop Kwak, Doyup Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**) 2024<br></i>
->> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/ReDream/">[Project Page]</a> <a href="https://arxiv.org/abs/2402.02972">[arXiv]</a>
+<i style='font-style: normal;'>**Diffusion Model for Dense Matching**<br></i>
+<i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
+<i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, **Oral, 1.2% acceptance rate**<br></i>
+<i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DiffMatch/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
 
-> <i style='font-style: normal;'>**Diffusion Model for Dense Matching**<br></i>
->> <i style='font-style: normal;'>Jisu Nam, Gyuseong Lee, Sunwoo Kim, **Hyeonsu Kim**, Hyeongwon Cho, Seyeon Kim, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024, **Oral, 1.2% acceptance rate**<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DiffMatch/">[Project Page]</a> <a href="https://arxiv.org/abs/2305.19094">[arXiv]</a>
-
-> <i style='font-style: normal;'>**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br></i>
->> <i style='font-style: normal;'>Junyoung Seo\*, Wooseok Jang\*, Min-Seop Kwak\*, **Hyeonsu Kim**, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
+<i style='font-style: normal;'>**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**<br></i>
+<i style='font-style: normal;'>Junyoung Seo\*, Wooseok Jang\*, Min-Seop Kwak\*, **Hyeonsu Kim**, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim<br></i>
+<i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**) 2024<br></i>
+<i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project Page]</a> <a href="https://arxiv.org/abs/2303.07937">[arXiv]</a>
 
 
 <h3>Preprints</h3>
 
-> <i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
->> <i style='font-style: normal;'> <strong>Inès Hyeonsu Kim</strong><sup>*</sup>, JoungBin Lee\*, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, Seokju Cho, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/Diff-ID">[Project Page]</a> <a href="https://arxiv.org/pdf/2406.16042">[arXiv]</a>
+<i style='font-style: normal;'>**Pose-Diversified Augmentation with Diffusion Model for Person Re-Identification**<br></i>
+<i style='font-style: normal;'> <strong>Inès Hyeonsu Kim</strong><sup>*</sup>, JoungBin Lee\*, Soowon Son, Woojeong Jin, Kyusun Cho, Junyoung Seo, Min-Seop Kwak, Seokju Cho, JeongYeol Baek, Byeongwon Lee, Seungryong Kim<br></i>
+<i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
+<i style='font-style: normal;'><a href="https://ku-cvlab.github.io/Diff-ID">[Project Page]</a> <a href="https://arxiv.org/pdf/2406.16042">[arXiv]</a>
 
-> <i style='font-style: normal;'>**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**<br></i>
->> <i style='font-style: normal;'> Min-Seop Kwak, Donghoon Ahn, **Inès Hyeonsu Kim**, Jin-wha Kim, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/GSD/">[Project Page]</a> <a href="https://arxiv.org/pdf/2406.16695">[arXiv]</a>
+<i style='font-style: normal;'>**Geometry-Aware Score Distillation via 3D Consistent Noising and Gradient Consistency Modeling**<br></i>
+<i style='font-style: normal;'> Min-Seop Kwak, Donghoon Ahn, **Inès Hyeonsu Kim**, Jin-wha Kim, Seungryong Kim<br></i>
+<i style='font-style: normal;'>Arxiv Preprint, 2024<br></i>
+<i style='font-style: normal;'><a href="https://ku-cvlab.github.io/GSD/">[Project Page]</a> <a href="https://arxiv.org/pdf/2406.16695">[arXiv]</a>
 
 Honors & Awards
 =====
