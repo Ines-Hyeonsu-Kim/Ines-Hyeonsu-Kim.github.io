@@ -9,7 +9,7 @@ redirect_from:
 ---
 Introduction
 ======
-I am a first-year PhD student at KAIST, advised by Prof. <a href="https://cvlab.kaist.ac.kr/members/faculty">Seungryong Kim</a>. My research focuses on general perception, with a particular interest in point tracking (Track Any Point), its applications, and bridging video with language understanding.
+I am a first-year PhD student at KAIST, advised by Prof. <a href="https://cvlab.kaist.ac.kr/members/faculty">Seungryong Kim</a>. My research focuses on general perception, with a particular interest in point tracking (Track Any Point), its applications, and bridging video with language understanding. I am currently conducting visiting research with Prof. <a href="https://web.eecs.umich.edu/~honglak/">Honglak Lee</a> at the University of Michigan.
 
 Before joining KAIST, I was a PhD student at Korea University and transferred to KAIST with my advisor. Prior to that, I received a B.S. degree from Korea University.
 
