@@ -78,6 +78,8 @@ Publications
 
 Honors & Awards
 =====
+* Graduate School Presidential Science Scholarship (2025)
+  *  Korea Student Aid Foundation (KOSAF)
 * CVPR Travel Award (2025)
   *  IEEE Computer Society and the Computer Vision Foundation
   *  Exploring Temporally-Aware Features for Point Tracking
